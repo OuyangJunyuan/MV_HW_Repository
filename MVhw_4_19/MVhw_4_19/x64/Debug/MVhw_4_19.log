@@ -1,6 +1,0 @@
-﻿  main.cpp
-  myfilter.cpp
-C:\Users\70654\source\repos\VS_repository\mv\MVhw_4_19\MVhw_4_19\myfilter.cpp(72,12): warning C4244: “初始化”: 从“int64”转换到“double”，可能丢失数据
-C:\Users\70654\source\repos\VS_repository\mv\MVhw_4_19\MVhw_4_19\myfilter.cpp(197,22): warning C4018: “<”: 有符号/无符号不匹配
-  正在生成代码...
-  MVhw_4_19.vcxproj -> C:\Users\70654\source\repos\VS_repository\mv\MVhw_4_19\x64\Debug\MVhw_4_19.exe
